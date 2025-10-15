@@ -1,1 +1,7 @@
-# juancarssantoss-pixel.github.io
+[quiz_simulado5.html](https://github.com/user-attachments/files/22917524/quiz_simulado5.html)
+[quiz_simulado6.html](https://github.com/user-attachments/files/22917525/quiz_simulado6.html)[quiz_simulado4.html](https://github.com/user-attachments/files/22917532/quiz_simulado4.html)
+[quiz_simulado3.html](https://github.com/user-attachments/files/22917531/quiz_simulado3.html)
+[quiz_simulado2.html](https://github.com/user-attachments/files/22917530/quiz_simulado2.html)
+[quiz_simulado1.html](https://github.com/user-attachments/files/22917529/quiz_simulado1.html)
+[index.html](https://github.com/user-attachments/files/22917528/index.html)
+[quiz_simulado7.html](https://github.com/user-attachments/files/22917527/quiz_simulado7.html)
